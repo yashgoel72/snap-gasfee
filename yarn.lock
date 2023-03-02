@@ -1483,9 +1483,9 @@
     yargs-parser "^20.2.2"
 
 "@metamask/snaps-registry@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@metamask/snaps-registry/-/snaps-registry-1.0.0.tgz#5ccdb4c9b5508c056b024cd6e895caf58a680a67"
-  integrity sha512-0IqbxxeA7UZ/gJ4VXDLAmndCCLhrmiFbiELp/94zY7E5+CGENr+mpIL2NjJTO3JgSkfX4X47tODTLgGn7wyiNQ==
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@metamask/snaps-registry/-/snaps-registry-1.1.0.tgz#c26f0dc2a04df224fb1fde5d3aaa0ed94b540ba5"
+  integrity sha512-seqgT9mdo6km+mePwfxtfEZZl7ajIrFCIV4Q4DpM+/ZYTfpiIZwhuICEDkr0mkOQQOO7UXuHl32VhfzOGagbow==
   dependencies:
     "@metamask/utils" "^3.4.0"
     superstruct "^1.0.3"
